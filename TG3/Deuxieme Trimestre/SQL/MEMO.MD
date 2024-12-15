@@ -10,6 +10,7 @@
  - Tout attribut à un domaine de valeurs, telle qu'une chaîne de caractère, un nombre ou bien un booléen.
  - Une **Clé Primaire** permet d'identifier chaque ligne de la table de manière unique. Cela permettra de faire des liens entre lignes de plusieurs tables sans ambiguïté.
 
+ùùùùùù
 ### Créer des tables :
 
 ```sql
@@ -75,7 +76,7 @@ INSERT INTO table1 VALUES (73, "exemple", 33);
 
 ### Requêtes de suppression : 
     
-- ```sql 
+- ```sql
     DELETE FROM table1 WHERE nom='exemple'
     ```
 
@@ -111,3 +112,8 @@ INSERT INTO table1 VALUES (73, "exemple", 33);
     CREATE TABLE table1 (genre ENUM('Homme', 'Femme', 'Autre'));
     ```
     **`ENUM`**: Énumération, pour définir une liste de valeurs possibles.
+
+### Les domaines de valeurs
+    ```sql
+    FROM
+    ``
