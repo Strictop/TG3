@@ -43,19 +43,19 @@ INSERT INTO table1 VALUES (73, "exemple", 33);
 ### Agréger les données :
 
 - ```sql
-    SELECT MAX(nom) FROM table1;
+    SELECT MAX(nom) FROM table1;*
     ```
     Fonction d'agrégation avec les instructions :
     1. `MAX()` pour récupérer la valeur maximum d’une colonne sur un ensemble de ligne.
     2. `MIN()` pour récupérer la valeur minimum d'une colonne sur un ensemble de ligne.
     3. `SUM()` pour calculer la somme sur un ensemble d’enregistrement
     4. `COUNT(*)` pour compte le nombre de lignes dans une table
-    5. `
+    5. `COUNT(valeur)` pour compter le nombre de lignes qui contiennent la valeur
 
 ### Les jointures : 
 
 - ```sql
-    SELECT * FROM table1 INNER JOIN table2 ON table1.id_test = table2.id
+    SELECT * FROM table1 INNER JOIN table2 O N table1.id_test = table2.id
     ```
     L'instructions **``INNER JOIN``** permet de créer une jointure entre la **table1** et la **table2**. Ensuite, les instructions **``ON table1.id_test = table2.id``** signifie qu'une ligne quelconque A de la **table1** devra être fusionnée avec la ligne B de la **table2** à condition que l'attribut **id_test** de la ligne A soit égal à l'attribut id de la ligne B.
 
