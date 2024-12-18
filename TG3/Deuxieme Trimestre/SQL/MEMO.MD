@@ -1,16 +1,6 @@
-# Mémo pour l'apprentissage du _**SQL**_
+# Mémo  **SQL**
 
-### Notes :
- - Par convention il faut écrire les instructions en **majuscule**
- - Ne pas oublier le **`;`** à la fin d'une ligne d'instruction
- 
- ### Vocabulaire : 
- 
- - Dans une table, chaque ligne est appelée **tuple** ou enregistrement et chaque colonne est appelée **attribut** ou variable.
- - Tout attribut à un domaine de valeurs, telle qu'une chaîne de caractère, un nombre ou bien un booléen.
- - Une **Clé Primaire** permet d'identifier chaque ligne de la table de manière unique. Cela permettra de faire des liens entre lignes de plusieurs tables sans ambiguïté.
 
-ùùùùùù
 ### Créer des tables :
 
 ```sql
@@ -31,17 +21,17 @@ INSERT INTO table1 VALUES (73, "exemple", 33);
 - ```sql
     SELECT * FROM table1;
     ``` 
-    Permet de tout sélectionner 
+    Permet de tout sélectionner dans la table
 
 - ```sql
     SELECT * FROM table1 nom > 20;
     ```
-    Filtrer avec condition
+    Filtrer avec une seule condition
 
 - ```sql
     SELECT * FROM table1 nom > 20 AND nom ="exemple";
     ```
-    Filtrer avec condition multiple
+    Filtrer avec plusieurs conditions
 
 #### Trier les données :
 
@@ -59,6 +49,8 @@ INSERT INTO table1 VALUES (73, "exemple", 33);
     1. `MAX()` pour récupérer la valeur maximum d’une colonne sur un ensemble de ligne.
     2. `MIN()` pour récupérer la valeur minimum d'une colonne sur un ensemble de ligne.
     3. `SUM()` pour calculer la somme sur un ensemble d’enregistrement
+    4. `COUNT(*)` pour compte le nombre de lignes dans une table
+    5. `
 
 ### Les jointures : 
 
