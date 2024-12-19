@@ -106,6 +106,6 @@ INSERT INTO table1 VALUES (73, "exemple", 33);
     **`ENUM`**: Énumération, pour définir une liste de valeurs possibles.
 
 ### Les domaines de valeurs
-    ```sql
-    FROM
-    ``
+```sql
+    FROM 
+    ```
