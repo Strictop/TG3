@@ -105,7 +105,7 @@ INSERT INTO table1 VALUES (73, "exemple", 33);
     ```
     **`ENUM`**: Énumération, pour définir une liste de valeurs possibles.
 
-### Les domaines de valeurs
-```sql
-    FROM 
+### Les domaines de valeurs :
+- ```sql 
+    CREATE TABLE table1 (est_actif BOOLEAN);
     ```
