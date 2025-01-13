@@ -20,3 +20,15 @@ Me reprendre en mains en physique
 
 # Dates/info importantes:  
 - 08/03/2025: JPO 2025 IUT de Lannion  
+
+# Projet d'orientation:  
+
+## BTS CIEL (Option A: IR)
+- Lycée Felix Le Dantec (Lannion - 22)
+- Lycée Vauban (Brest - 29)
+
+## BTS SIO:
+- Lycée Felix Le Dantec (Lannion - 22)   
+
+## BUT Réseaux et télécominucation (Parcours CYBER au bout de 2 ans) :
+- I.U.T de Lannion (22)  
