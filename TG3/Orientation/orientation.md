@@ -13,9 +13,9 @@ Me reprendre en mains en physique
 # Dates/info importantes:  
 - 08/03/2025: JPO 2025 IUT de Lannion
 - 01/03/2025: JPO 2025 Lycée VAuban brest (Lycée Vauban (Brest - 29)
+- 31/01/2025 - 01/03/2025: JPO Lycée Felix le Dantec de 17h à 12h30
 - **https://www.lycee-vauban-brest.ac-rennes.fr/bts-systemes-numeriques-ouverture-de-l-option-informatique-et-reseaux.html**  
   (fiche info formation bts ciel IR Lycée Vauban)
-- 31/01/2025 - 01/03/2025: JPO Lycée Felix le Dantec de 17h à 12h30
 - **https://lycee-ledantec.fr/formation/bts-ciel-cybersecurite-lannion-formation-applications-informatique-avenir-reseaux-maintenance/**.   
   Lien renvoyant vers le bts ciel du lycée Felix Le Dantec
 # Projet d'orientation: 
