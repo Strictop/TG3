@@ -9,7 +9,7 @@ Je suis très déçu de mes résultats en physique ce trimestre, malgré tout le
 
 # Bilan trimestriel 2nd trimestre :
 
-Mon objectif du second trimestre etait de me reprendre en mains en physique pour relever mes notes, au dernier controle meme si j'ai eu 8/20 j'ai quand meme réussi a changer ma methode de travail et par rapport a mes autres notes du premier trimestre il faut que je continue comme ça pour ameliorer mes resultats. Je suis quand meme tres decu de mes deux notes de bac blanc que ce soit en nsi ou en physique, car c'etait la periode ou j'avais une grosse grippe et ça a joué dans ma note finale. Cependant je suis assez content de mes notes en tronc commun et en philo, je commence a mieux comprendre la methodologie et comment construire une dissertation et ca a porte ses fruits. Concernant mon orientation j'ai fais plusieurs portes ouvertes au lycee Felix le Dantec pour le BTS CIEL (IR) et le BTS SIO (SISR) et le lycee Vauban a Brest pour avoir un autre regard du BTS CIEL avec d'autres profs et des eleves qu'il n'y avait pas a Lannion pour les portes ouvertes du CIEL. 
+Mon objectif du second trimestre etait de me reprendre en mains en physique pour relever mes notes, au dernier controle meme si j'ai eu 8/20 j'ai quand meme réussi a changer ma methode de travail et par rapport a mes autres notes du premier trimestre il faut que je continue comme ça pour ameliorer mes resultats. Je suis quand meme tres decu de mes deux notes de bac blanc que ce soit en nsi ou en physique, car j'étais malade, j'avais la grippe et ça a joué dans ma note finale. Cependant je suis assez content de mes notes en tronc commun et en philo, je commence a mieux comprendre la methodologie, comment rédiger la dissertation et ça a porter ses fruits. Concernant mon orientation, je suis allé à plusieurs portes ouvertes notamment au lycee Felix le Dantec pour le BTS CIEL (IR) et le BTS SIO (SISR) et le lycee Vauban a Brest pour avoir un autre regard du BTS CIEL avec d'autres profs et des eleves qu'il n'y avait pas a Lannion pour les portes ouvertes du CIEL. J'ai pu aussi prendre des informations sur le BTS CIEL (IR) en partenariat avec la marine au lycée Vauban que j'ai trouvé très interressant.
 
 # Ordre de préference
   - BTS CIEL IR
@@ -28,7 +28,7 @@ Me reprendre en mains en physique
 
 # Dates/info importantes:  
 - 08/03/2025: JPO 2025 IUT de Lannion
-- 01/03/2025: JPO 2025 Lycée VAuban brest (Lycée Vauban (Brest - 29)
+- 01/03/2025: JPO 2025 Lycée VAuban brest (Lycée Vauban (Brest - 29))
 - 31/01/2025 - 01/03/2025: JPO Lycée Felix le Dantec de 17h à 12h30
 - **https://www.lycee-vauban-brest.ac-rennes.fr/bts-systemes-numeriques-ouverture-de-l-option-informatique-et-reseaux.html**  
   (fiche info formation bts ciel IR Lycée Vauban)
