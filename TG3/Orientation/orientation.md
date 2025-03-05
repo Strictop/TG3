@@ -11,12 +11,17 @@ Je suis très déçu de mes résultats en physique ce trimestre, malgré tout le
 
 Mon objectif du second trimestre etait de me reprendre en mains en physique pour relever mes notes, au dernier controle meme si j'ai eu 8/20 j'ai quand meme réussi a changer ma methode de travail et par rapport a mes autres notes du premier trimestre il faut que je continue comme ça pour ameliorer mes resultats. Je suis quand meme tres decu de mes deux notes de bac blanc que ce soit en nsi ou en physique, car c'etait la periode ou j'avais une grosse grippe et ça a joué dans ma note finale. Cependant je suis assez content de mes notes en tronc commun et en philo, je commence a mieux comprendre la methodologie et comment construire une dissertation et ca a porte ses fruits. Concernant mon orientation j'ai fais plusieurs portes ouvertes au lycee Felix le Dantec pour le BTS CIEL (IR) et le BTS SIO (SISR) et le lycee Vauban a Brest pour avoir un autre regard du BTS CIEL avec d'autres profs et des eleves qu'il n'y avait pas a Lannion pour les portes ouvertes du CIEL. 
 
+# Ordre de préference
+  - BTS CIEL IR
+  - BTS SIOS (SISR)
+  - BUT Réseaux et télécoms
+  - BUT info
+
 # Engagement
   - Nuit du code (2023-2024)
   - Fete de la science (Projet sous-marin)
   - Obtention du PSC1 en février
   - Participation aux portes ouvertes du lycée (présentation de la spécialité NSI 2023-2024)
-  - 
 
 # Objectif second trimestre
 Me reprendre en mains en physique
