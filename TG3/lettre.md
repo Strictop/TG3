@@ -1,6 +1,6 @@
 Madame Monsieur,  
 
-Actuellement élève en Terminale Générale au lycée Notre Dame Du Mur à Morlaix, avec pour spécialités NSI et Physique‑Chimie, je souhaite intégrer le BTS CIEL option IR au lycée Vauban à Brest. Passionné par le numérique et la cybersécurité, je suis déterminé à approfondir mes compétences dans ce secteur. Situé au cœur de la technopole brestoise, le lycée Vauban bénéficie d’un écosystème numérique stimulant qui complète la qualité de son enseignement et de son suivi personnalisé.  
+Je suis actuellement élève en Terminale Générale au lycée Notre Dame Du Mur à Morlaix, avec pour spécialités NSI et Physique‑Chimie, je souhaite intégrer votre BTS CIEL avec l'option IR. Passionné par le numérique et la cybersécurité, je suis déterminé à approfondir mes compétences dans ce secteur. Situé au cœur de la technopole brestoise, le lycée Vauban bénéficie d’un écosystème numérique stimulant qui complète la qualité de son enseignement et de son suivi personnalisé.  
 
 Durant les portes ouvertes du 1er mars 2025, l’accueil de Mme Brehonnet et les explications de Mr. Guivarch et Mr Caille m’ont permis de découvrir un programme riche, une pédagogie soignée et des équipements modernes. Mon échange avec M. Plassart, expert en cybersécurité toujours attentif au parcours de ses anciens élèves, a approfondi ma compréhension des enjeux géopolitiques et stratégiques, tandis qu’un projet d’étudiants portant sur la conception d’un distributeur automatisé de jus de pomme illustre concrètement l’esprit novateur de la formation. 
 
