@@ -4,7 +4,7 @@ Actuellement élève en Terminale Générale au lycée Notre Dame Du Mur à Morl
 
 Lors des portes ouvertes du 1er mars 2025, l’accueil chaleureux de Mme Brehonnet et les explications de M. Guivarch et Caille m’ont permis de découvrir un programme riche, une pédagogie soignée et des équipements modernes. Mon échange avec M. Plassart, expert en cybersécurité toujours attentif au parcours de ses anciens élèves, a approfondi ma compréhension des enjeux géopolitiques et stratégiques, tandis qu’un projet d’étudiants portant sur la conception d’un distributeur automatisé de jus de pomme illustre concrètement l’esprit novateur de la formation. 
 
-Convaincu que l’expérience concrète est essentielle, j’ai participé à la conception d’un sous‑marin télécommandé lors de la Fête de la Science, projet ayant consolidé mes compétences techniques et mon esprit d’équipe. Par ailleurs, « La nuit du Code » et mon stage chez DEFLIGHT m’ont permis d’appréhender les défis liés à la sécurisation des données.  
+Convaincu que l’experience réelle est importante, j’ai participé à la conception d’un sous‑marin télécommandé lors de la Fête de la Science, projet ayant consolidé mes compétences techniques et mon esprit d’équipe. Par ailleurs, « La nuit du Code » et mon stage chez DEFLIGHT m’ont permis d’appréhender les défis liés à la sécurisation des données.  
 
 Ce BTS constitue une étape clé dans mon projet professionnel, qui vise à poursuivre mon cursus en licence professionnelle ou en école spécialisée afin d’intégrer, à terme, une entreprise de référence en sécurité informatique.  
 
