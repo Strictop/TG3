@@ -1,4 +1,4 @@
-# Problématique : Les algorithmes de cryptographie symétriques garantissent-ils la sécurité de nos communications et de nos données en 2025 ? 
+# Problématique : Les algorithmes de cryptographie symétrique garantissent-ils la sécurité de nos communications et de nos données en 2025 ? 
 
  
 
@@ -21,7 +21,7 @@ Pour y répondre, je parlerai de leurs fonctionnements, puis de leurs usages act
  
 
 
-## I. Fonctionnement des algorithmes de cryptographie symétriques
+## I. Fonctionnement des algorithmes de cryptographie symétrique
 
 La cryptographie, c’est ce qui permet de rendre un message illisible pour une personne qui n’est pas autorisée à le lire. 
 Par exemple, si j’envoie un message à quelqu’un, je veux que seule cette personne puisse le comprendre. 
